@@ -1,33 +1,67 @@
-# Full Stack User Management System
+# 📚 Bookstore & User Management App
 
-A full-stack web application that allows users to register, login, and manage user data securely.  
-The project demonstrates authentication using JWT with HTTP-only cookies and protected API routes.
+This is a full-stack project combining a bookstore system with user management. Users can sign up, log in, view books, and manage their account. Admin-like functionality allows managing books and users with create, update, and delete operations.
 
-## 🚀 Features
+The project uses React for the frontend, Node.js/Express for the backend, and MySQL for the database.
 
-- User Signup
-- User Login & Logout
-- JWT Authentication
-- HTTP-only Cookie Security
-- Protected Routes with Middleware
-- CRUD Operations (Create, Read, Update, Delete)
-- RESTful API using Express
-- MySQL Database Integration
-- React Frontend Dashboard
+## Features
 
-## 🛠️ Tech Stack
+### User Features
+- Sign up and log in with email & password
+- View list of books
+- View book details (title, author, price, stock, description)
+- Update personal details (name, email)
 
-Frontend:
-- React
-- Axios
-- CSS
+### Admin / Management Features
+- Add, update, delete books
+- View list of users
+- Update or delete user accounts
+- Dashboard with separate sections for Books and Users
 
-Backend:
-- Node.js
-- Express.js
-- JWT Authentication
-- Cookie Parser Middleware
+## Tech Stack
+- Frontend: React, JSX, CSS-in-JS
+- Backend: Node.js, Express
+- Database: MySQL
+- HTTP Client: Axios
 
-Database:
-- MySQL (XAMPP)
+## Project Structure
+bookstore-app/
+├─ backend/
+│  ├─ controllers/
+│  │  ├─ authController.js
+│  │  └─ userController.js
+│  ├─ db.js
+│  ├─ routes/
+│  └─ server.js
+├─ frontend/
+│  └─ src/
+│     ├─ App.jsx
+│     └─ index.js
+└─ README.md
 
+## Installation & Running Locally
+1. Clone the repo:
+git clone https://github.com/<your-username>/<repository-name>.git
+cd <repository-folder>
+
+2.Install backend dependencies:
+cd backend
+npm install
+
+3.Install frontend dependencies:
+cd ../frontend
+npm install
+
+4.Create a MySQL database and update the db.js file with your credentials.
+
+5.Start the backend:
+cd ../backend
+npm start
+
+6.Start the frontend:
+cd ../frontend
+npm start
+
+7.Open your browser and navigate to http://localhost:3000.
+
+Built by Anchal Bisht
