@@ -1,4 +1,4 @@
-# 📚 Bookstore & User Management App
+# 📚 Bookstore
 
 This is a full-stack project combining a bookstore system with user management. Users can sign up, log in, view books, and manage their account. Admin-like functionality allows managing books and users with create, update, and delete operations.
 
