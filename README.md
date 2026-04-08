@@ -65,21 +65,21 @@ npm start
 7.Open your browser and navigate to http://localhost:3000.
 
 #Screenshot of Project 
-![Bookstore](screenshot/bookstore.png) //bookstore page here you can add new book
+![Bookstore](screenshot_of_project/bookstore.png) //bookstore page here you can add new book
 
-![Dashboard](screenshot/Dashboard.png) //dashboard page here you can choose in which page you want to go user or bookstore
+![Dashboard](screenshot_of_project/Dashboard.png) //dashboard page here you can choose in which page you want to go user or bookstore
 
-![Delete_update](screenshot/delete_update.png) //delete_update page 
+![Delete_update](screenshot_of_project/delete_update.png) //delete_update page 
 
-![Description](screenshot/description.png) //description page details of book you want to see 
+![Description](screenshot_of_project/description.png) //description page details of book you want to see 
 
-![Login](screenshot/Login.png) //Login page if you already have account you login here
+![Login](screenshot_of_project/Login.png) //Login page if you already have account you login here
 
-![Signup](screenshot/Signup.png) //Signup page if you dont have account you first register the details here 
+![Signup](screenshot_of_project/Signup.png) //Signup page if you dont have account you first register the details here 
 
-![Updatebook](screenshot/Updatebook.png) //Update book page here you can update the details 
+![Updatebook](screenshot_of_project/Updatebook.png) //Update book page here you can update the details 
 
-![Users](screenshot/Users.png) // delete and update the user 
+![Users](screenshot_of_project/Users.png) // delete and update the user 
 
 
 
