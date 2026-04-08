@@ -64,39 +64,32 @@ npm start
 
 7.Open your browser and navigate to http://localhost:3000.
 
-#Screenshot of Project 
+# Screenshot of Project 
 
-![Bookstore](screenshot_of_project/bookstore.png)
+![Bookstore](screenshot_of_project/bookstore.png)  
+Bookstore page where new books can be added with details such as title, author, and price.
 
-//bookstore page here you can add new book
+![Dashboard](screenshot_of_project/Dashboard.png)  
+Dashboard page that acts as the main navigation hub, allowing you to choose between user management or bookstore features.
 
-![Dashboard](screenshot_of_project/Dashboard.png) 
+![Delete/Update](screenshot_of_project/delete_update.png)  
+Page for deleting or updating existing book records, ensuring the catalog stays accurate.
 
-//dashboard page here you can choose in which page you want to go user or bookstore
+![Description](screenshot_of_project/description.png)  
+Detailed description page showing complete information about a selected book.
 
-![Delete_update](screenshot_of_project/delete_update.png)
+![Login](screenshot_of_project/Login.png)  
+Login page for existing users to securely access their accounts.
 
-//delete_update page 
+![Signup](screenshot_of_project/Signup.png)  
+Signup page where new users can register by entering their details before accessing the system.
 
-![Description](screenshot_of_project/description.png) 
+![Update Book](screenshot_of_project/Updatebook.png)  
+Update book page that allows editing and modifying book details already in the catalog.
 
-//description page details of book you want to see 
+![Users](screenshot_of_project/Users.png)  
+User management page where admins can delete or update user accounts.
 
-![Login](screenshot_of_project/Login.png) 
-
-//Login page if you already have account you login here
-
-![Signup](screenshot_of_project/Signup.png)
-
-//Signup page if you dont have account you first register the details here 
-
-![Updatebook](screenshot_of_project/Updatebook.png)
-
-//Update book page here you can update the details 
-
-![Users](screenshot_of_project/Users.png) 
-
-// delete and update the user 
 
 
 
