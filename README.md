@@ -69,7 +69,7 @@ npm start
 ![Bookstore](screenshot_of_project/bookstore.png)
 //bookstore page here you can add new book
 
-![Dashboard](screenshot_of_project/Dashboard.png)
+![Dashboard](screenshot_of_project/Dashboard.png) /n
 //dashboard page here you can choose in which page you want to go user or bookstore
 
 ![Delete_update](screenshot_of_project/delete_update.png)
