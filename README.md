@@ -67,33 +67,36 @@ npm start
 #Screenshot of Project 
 
 ![Bookstore](screenshot_of_project/bookstore.png)
+
 //bookstore page here you can add new book
 
-![Dashboard](screenshot_of_project/Dashboard.png) /n
+![Dashboard](screenshot_of_project/Dashboard.png) 
+
 //dashboard page here you can choose in which page you want to go user or bookstore
 
 ![Delete_update](screenshot_of_project/delete_update.png)
+
 //delete_update page 
 
 ![Description](screenshot_of_project/description.png) 
+
 //description page details of book you want to see 
 
 ![Login](screenshot_of_project/Login.png) 
+
 //Login page if you already have account you login here
 
 ![Signup](screenshot_of_project/Signup.png)
+
 //Signup page if you dont have account you first register the details here 
 
 ![Updatebook](screenshot_of_project/Updatebook.png)
+
 //Update book page here you can update the details 
 
 ![Users](screenshot_of_project/Users.png) 
+
 // delete and update the user 
-
-
-
-
-
 
 
 
