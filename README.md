@@ -65,21 +65,30 @@ npm start
 7.Open your browser and navigate to http://localhost:3000.
 
 #Screenshot of Project 
-![Bookstore](screenshot_of_project/bookstore.png) //bookstore page here you can add new book
 
-![Dashboard](screenshot_of_project/Dashboard.png) //dashboard page here you can choose in which page you want to go user or bookstore
+![Bookstore](screenshot_of_project/bookstore.png)
+//bookstore page here you can add new book
 
-![Delete_update](screenshot_of_project/delete_update.png) //delete_update page 
+![Dashboard](screenshot_of_project/Dashboard.png)
+//dashboard page here you can choose in which page you want to go user or bookstore
 
-![Description](screenshot_of_project/description.png) //description page details of book you want to see 
+![Delete_update](screenshot_of_project/delete_update.png)
+//delete_update page 
 
-![Login](screenshot_of_project/Login.png) //Login page if you already have account you login here
+![Description](screenshot_of_project/description.png) 
+//description page details of book you want to see 
 
-![Signup](screenshot_of_project/Signup.png) //Signup page if you dont have account you first register the details here 
+![Login](screenshot_of_project/Login.png) 
+//Login page if you already have account you login here
 
-![Updatebook](screenshot_of_project/Updatebook.png) //Update book page here you can update the details 
+![Signup](screenshot_of_project/Signup.png)
+//Signup page if you dont have account you first register the details here 
 
-![Users](screenshot_of_project/Users.png) // delete and update the user 
+![Updatebook](screenshot_of_project/Updatebook.png)
+//Update book page here you can update the details 
+
+![Users](screenshot_of_project/Users.png) 
+// delete and update the user 
 
 
 
