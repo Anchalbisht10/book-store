@@ -64,4 +64,21 @@ npm start
 
 7.Open your browser and navigate to http://localhost:3000.
 
+#Screenshot of Project 
+![Bookstore](screenshot/bookstore.png) //bookstore page here you can add new book
+![Bookstore](screenshot/Dashboard.png) //dashboard page here you can choose in which page you want to go user or bookstore
+![Bookstore](screenshot/delete_update.png) //delete_update page 
+![Bookstore](screenshot/description.png) //description page details of book you want to see 
+![Bookstore](screenshot/Login.png) //Login page if you already have account you login here
+![Bookstore](screenshot/Signup.png) //Signup page if you dont have account you first register the details here 
+![Bookstore](screenshot/Updatebook.png) //Update book page here you can update the details 
+![Bookstore](screenshot/Users.png) // delete and update the user 
+
+
+
+
+
+
+
+
 Built by Anchal Bisht
